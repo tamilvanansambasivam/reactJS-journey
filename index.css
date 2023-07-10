@@ -1,0 +1,22 @@
+body{
+    background-color: aliceblue;
+}
+
+h1 {
+    color:rgba(255, 255, 255, 0.815);
+    background-color: rgb(6, 189, 255);
+    padding: 20px;
+    display:flex;
+    place-content: center;
+    border-radius: 20px;
+}
+
+h2 {
+    color:rgba(255, 255, 255, 0.918);
+    background-color: rgb(6, 189, 255);
+    padding: 10px;
+    display:flex;
+    place-content: center;
+    border-radius: 10px;
+}
+
