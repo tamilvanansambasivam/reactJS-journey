@@ -4,14 +4,17 @@
   "description": "",
 
   "scripts": {
+    "start":"parcel index.html",
+    "build":"parcel build index.html",
     "test": "jest"
+
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tamilvanansambasivam/reactJS-journey.git"
   },
   "author": "",
-  "license": "ISC",
+  "license": "ISC", 
   "bugs": {
     "url": "https://github.com/tamilvanansambasivam/reactJS-journey/issues"
   },
