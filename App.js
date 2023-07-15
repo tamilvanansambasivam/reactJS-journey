@@ -116,6 +116,10 @@ const Body = () => {
                     <RestaurantCard   key={restaurant.resName} resData={restaurant} />
                 ))}
 
+{resList.map((restaurant2) => (
+                    <RestaurantCard   key={restaurant2.resName} resData={restaurant2} />
+                ))}
+
 
 
 
