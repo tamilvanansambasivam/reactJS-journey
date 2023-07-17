@@ -17,7 +17,7 @@ body{
     padding: 10px;
 }
 
-.nav-items>ul {
+.nav-items ul {
     display: flex;
     list-style-type: none;
     padding: 0px 30px;
@@ -25,7 +25,7 @@ body{
 
 }
 
-.nav-items>ul>li {
+.nav-items ul  li {
     padding: 10px;
     margin: 10px;
 }
@@ -36,7 +36,8 @@ body{
 
     
     width: 200px;
-    padding: 10px;
+    height: 46 0px;
+    padding: 20px;
     background-color: "#f0f0f0";
     color: rgb(2, 2, 2);
     border-radius: 10px ;
@@ -48,7 +49,7 @@ body{
 
 .res-card img {
     border-radius: 10px ;
-    height: 50%;
+    height: 40%;
     
 }
 
@@ -72,5 +73,16 @@ body{
 }
 
 .food-image {
-    width: 99%;
+    width: 98%;
+}
+
+.footer{
+    font-size: 24px;
+    margin: 20px;
+    padding: 20px;
+   display: grid;
+   place-items: center;
+    gap: 20px;
+    background-color: #f0f0f0;
+    
 }
